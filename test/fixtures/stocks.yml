@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+stock1:
+  value: 10.0
+  time: '2023-01-01 12:00:00'
+  stockable_type: 'Potato'
+  stockable_id: 1
+
+stock2:
+  value: 20.0
+  time: '2023-01-02 12:00:00'
+  stockable_type: 'Potato'
+  stockable_id: 1
